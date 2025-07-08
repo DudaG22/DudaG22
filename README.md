@@ -1,6 +1,7 @@
-  <h1> Olá, eu sou a Duda!👋 </h1>
+  <h1> Hello, I'm Maria!👋 </h1>
 
-💻 Cursando engenharia da computação. Estuando Python, SQL e C.
+💻 Currently studying Applied Computer Science at Thomas More.  
+Learning Python, SQL, and C.
 
 <div align="center" > 
 <a href="https://github.com/dudag22">
